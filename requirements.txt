@@ -1,0 +1,5 @@
+pandas
+numpy
+requests
+pyspark
+apache-airflow-providers-databricks==7.7.4
